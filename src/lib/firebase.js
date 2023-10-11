@@ -2,12 +2,13 @@ import firebase from "firebase";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyATOkzZ8M03JDlexVfextL5fkPTW7jhL6Q",
-  authDomain: "yt-classroom-clone.firebaseapp.com",
-  projectId: "yt-classroom-clone",
-  storageBucket: "yt-classroom-clone.appspot.com",
-  messagingSenderId: "170227524980",
-  appId: "1:170227524980:web:78806688690ce40a7d3821",
+  apiKey: "AIzaSyBsImGL6fuQb715w69ZlSVEkZag07sLu8Y",
+  authDomain: "quiz-20730.firebaseapp.com",
+  projectId: "quiz-20730",
+  storageBucket: "quiz-20730.appspot.com",
+  messagingSenderId: "402820908137",
+  appId: "1:402820908137:web:890833413103e61f6c0ef8",
+  measurementId: "G-D4K2ZRYZ0K"
 };
 
 firebase.initializeApp(firebaseConfig);
